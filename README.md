@@ -5,6 +5,6 @@
 - จัดเก็บข้อมูลตะกร้าผ่าน Session
 
 ## เมนูหลัก
-- `/menu.php`
-- `/cart.php`
-- `/login.php`
+- `menu.php`
+- `cart.php`
+- `login.php`
